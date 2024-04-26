@@ -1,0 +1,9 @@
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.exe
+C:\Users\Miguel\Desktop\PROGRAMACION\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\PROGRAMACION\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\PROGRAMACION\TRABAJOS JOHNNY\C++\MOLINO\x64\Debug\MOLINO.exe
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\Juego Molino\x64\Debug\MOLINO.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\Juego Molino\x64\Debug\MOLINO.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Desktop\TRABAJOS JOHNNY\C++\Juego Molino\x64\Debug\MOLINO.exe
